@@ -2,7 +2,7 @@ using System;
 
 namespace myApp
 {
-    class Program
+    class quick_sort
     {        
 
     	static int[] Concat(int[] ar1, int[] ar2)
