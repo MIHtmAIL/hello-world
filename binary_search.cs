@@ -1,8 +1,8 @@
-﻿using System;
+using System;
 
 namespace myApp
 {
-    class Program
+    class binary_search
     {        
         const int ARRAY_SIZE = 11;
 
